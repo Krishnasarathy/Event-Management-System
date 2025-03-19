@@ -54,7 +54,7 @@ User Dashboard
 
 **Client:** React + Vite, Javascript, rsuitejs, BootStrap, MaterialUi, MDB Bootstrap
 
-**Server:** SpringBoot, Swagger   --(If you need backend contact with my E-mai;)
+**Server:** SpringBoot, Swagger   --(If you need backend contact with my E-mail)
 
 **DataBase:** PostgreSQL
 
