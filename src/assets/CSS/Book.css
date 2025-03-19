@@ -1,0 +1,23 @@
+.ti{
+    text-align: center;
+    font-size:xx-large;
+    color: rgb(85, 0, 128);
+}
+.panel{
+    max-width: 500px;
+    background-color: ghostwhite;
+    margin-left: auto;
+    margin-right: auto;
+}
+.confirmed {
+    color: green;
+  }
+  
+  .pending {
+    color: rgb(164, 168, 25);
+  }
+  
+  .declined {
+    color: red;
+  }
+  

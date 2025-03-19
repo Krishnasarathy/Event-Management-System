@@ -1,0 +1,9 @@
+.bk{
+    display: flex;
+    justify-content: space-evenly;
+}
+@media screen and (max-width: 600px) {
+  .bk{
+    display: inline;
+  }
+  }

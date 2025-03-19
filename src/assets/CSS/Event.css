@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap');
+
+.background-radial-gradients {
+        height: 60vh;
+      background-color: hsl(218, 41%, 15%);
+      background-image: radial-gradient(650px circle at 0% 0%,
+          hsl(218, 41%, 35%) 15%,
+          hsl(218, 41%, 30%) 35%,
+          hsl(218, 41%, 20%) 75%,
+          hsl(218, 41%, 19%) 80%,
+          transparent 100%),
+        radial-gradient(1250px circle at 100% 100%,
+          hsl(218, 41%, 45%) 15%,
+          hsl(218, 41%, 30%) 35%,
+          hsl(218, 41%, 20%) 75%,
+          hsl(218, 41%, 19%) 80%,
+          transparent 100%);
+    }
+    
+  
+    
+    .bg-glass {
+      background-color: hsla(0, 0%, 100%, 0.9) !important;
+      backdrop-filter: saturate(200%) blur(25px);
+    }
+    /* Add this CSS to your Login.css file */
+  .sports{
+    color: rgb(88, 110, 237);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: xx-large;
+    font-weight: 600;
+    text-align: center;
+    font-size: 2.5rem;
+  }
+  .imgsc{
+    display: flex;
+    justify-content: space-evenly;
+    
+  }
+  @media only screen and (max-width: 768px) {
+    .imgsc {
+      flex-direction: column;
+      align-items: center;
+      justify-content: space-evenly;
+    }
+  }

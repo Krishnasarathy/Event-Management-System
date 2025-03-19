@@ -1,0 +1,9 @@
+.cd {
+  transition: 0.3s ease-in-out;
+  /* Other styles for the Panel go here */
+}
+
+.cd:hover {
+  /* Add a smooth transition for the hover effect */
+  transform: scale(1.05);
+  }
